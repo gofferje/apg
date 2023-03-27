@@ -1,0 +1,5 @@
+fun jaap(): INT {
+   3+4
+}
+
+jaap() + 3
